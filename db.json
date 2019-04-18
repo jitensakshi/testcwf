@@ -1,0 +1,212 @@
+{
+  /* ------------------------------------------------------------------------- */
+  "categoryList": {
+    "Error": {
+      "ErrorCode": null,
+      "ErrorMessage": null,
+      "ErrorDescription": null
+    },
+    "Response": {
+      "status": "success",
+      "message": "Category list is available !!",
+      "catlist": [
+        {
+          "id": "3",
+          "category_name": "Meat"
+        },
+        {
+          "id": "9",
+          "category_name": "Chicken"
+        },
+        {
+          "id": "10",
+          "category_name": "Fish"
+        },
+        {
+          "id": "11",
+          "category_name": "Eggs"
+        },
+        {
+          "id": "2",
+          "category_name": "Rice"
+        },
+        {
+          "id": "5",
+          "category_name": "Vegetarian"
+        },
+        {
+          "id": "1",
+          "category_name": "Chutney, Raita & Salad"
+        },
+        {
+          "id": "4",
+          "category_name": "Snacks & Soup"
+        },
+        {
+          "id": "7",
+          "category_name": "Desserts, Sweet Dish & Drinks"
+        },
+        {
+          "id": "6",
+          "category_name": "Naan, Roti, Parath, Poori & Dough"
+        },
+        {
+          "id": "8",
+          "category_name": "Others"
+        }
+      ]
+    }
+  },
+  /* ------------------------------------------------------------------------- */
+  "recipeList": {
+    "Error": {
+      "ErrorCode": null,
+      "ErrorMessage": null,
+      "ErrorDescription": null
+    },
+    "Response": {
+      "status": "success",
+      "message": "Recipe list is available !!",
+      "reclist": [
+        {
+          "id": "929",
+          "title": "MUTTON HANDI",
+          "image_file": "1204071878_mutton_handi___cook_with_faiza.png",
+          "view": "1147",
+          "clean_title": "mutton-handi"
+        },
+        {
+          "id": "916",
+          "title": "CHATPATI CHICKEN KARAHI",
+          "image_file": "561699003_CHATPATI_CHICKEN_KARAHI__COOK_WITH_FAIZA_.png",
+          "view": "2759",
+          "clean_title": "chatpati-chicken-karahi"
+        },
+        {
+          "id": "913",
+          "title": "HYDERABADI DALCHA",
+          "image_file": "1901998455_HYDERABADI_DALCHA________________________________COOK_WITH_FAIZA_.png",
+          "view": "1744",
+          "clean_title": "hyderabadi-dalcha"
+        },
+        {
+          "id": "903",
+          "title": "MURGH KHAAS 2",
+          "image_file": "808098558_murgh_khaas_2___cook_with_faiza.png",
+          "view": "2930",
+          "clean_title": "murgh-khaas-2"
+        },
+        {
+          "id": "888",
+          "title": "PUNJABI MUTTON RECIPE",
+          "image_file": "1869742142_punjabi_mutton_recipe_by_cook_with_faiza.png",
+          "view": "2857",
+          "clean_title": "punjabi-mutton-recipe"
+        },
+        {
+          "id": "886",
+          "title": "MONGOLIAN BEEF (Chinese) RECIPE",
+          "image_file": "1429681555_MANGOLIAN_BEEF_RECIPE__COOK_WITH_FAIZA_.png",
+          "view": "1749",
+          "clean_title": "mongolian-beef-chinese-recipe"
+        },
+        {
+          "id": "883",
+          "title": "MUTTON KARAHI",
+          "image_file": "1242332441_MUTTON_KARAHI__COOK_ITH_FAIZA_2.jpg",
+          "view": "4426",
+          "clean_title": "mutton-karahi"
+        }
+      ]
+    }
+  },
+  /* ------------------------------------------------------------------------- */
+  "recipeDetail": {
+    "Error": {
+      "ErrorCode": null,
+      "ErrorMessage": null,
+      "ErrorDescription": null
+    },
+    "Response": {
+      "status": "success",
+      "message": "Recipe detail is available !!",
+      "recdetail": {
+        "id": "4",
+        "image_file": "15343_khajur_halva.jpg",
+        "videocode": "Z-0g-3QtVNo",
+        "title": "Khajoor ka Halva",
+        "ingerdients": "<ul>\r\n    <li>&nbsp;dates 300g (deseeded &amp;amp; mashed)</li>\r\n    <li>almonds 15 pieces (sliced)</li>\r\n    <li>pistachios 30 pieces (sliced)</li>\r\n    <li>khoya 1 cup</li>\r\n    <li>green cardamom powder 1 ts</li>\r\n    <li>honey 3 tbs</li>\r\n    <li>semolina 1/2 cup (suji)</li>\r\n    <li>clarified butter 1/2 cup (ghee)</li>\r\n    <li>water 1 cup</li>\r\n</ul>",
+        "recipe": "<ol>\r\n    <li>&nbsp;heat the clarified butter in a pan and add the semolina and cook it till it turns golden color on medium flame.</li>\r\n    <li>once it changes color add the water, green cardamom powder, honey mix it well and add the mashed dates again mix it so the every thing becomes one and lower the flame to low to medium.</li>\r\n    <li>then add the khoya and half the nuts and mix it, cover and cook for 4 to 5 min.</li>\r\n    <li>after 4 to 5 min garnish it with the remaining nuts and khoya and serve hot.</li>\r\n</ol>"
+      },
+      "similar": [
+        {
+          "id": "2",
+          "title": "Marbel Cake",
+          "image_file": "14954_Marbel_Cake.JPG",
+          "view": "20939",
+          "clean_title": "marbel-cake"
+        },
+        {
+          "id": "8",
+          "title": "Habshi Halwa",
+          "image_file": "1788_sweets_habshi_halwa.jpg",
+          "view": "107967",
+          "clean_title": "habshi-halwa"
+        },
+        {
+          "id": "12",
+          "title": "Sweet Paste (shortcrust Base)",
+          "image_file": "20472_Sweet_Paste1.jpg",
+          "view": "12688",
+          "clean_title": "sweet-paste-shortcrust-base"
+        },
+        {
+          "id": "14",
+          "title": "Baklava Recipe",
+          "image_file": "716_Baklava_Recipe.JPG",
+          "view": "12374",
+          "clean_title": "baklava-recipe"
+        },
+        {
+          "id": "16",
+          "title": "Lemon Tart",
+          "image_file": "5491_Lemon_Tart_Recipe.JPG",
+          "view": "12163",
+          "clean_title": "lemon-tart"
+        },
+        {
+          "id": "17",
+          "title": "Badam Barffi",
+          "image_file": "802_Badam_Barffi.jpg",
+          "view": "18126",
+          "clean_title": "badam-barffi"
+        }
+      ]
+    }
+  },
+  /* ------------------------------------------------------------------------- */
+  "cmsPage": {
+    "Error": {
+      "ErrorCode": null,
+      "ErrorMessage": null,
+      "ErrorDescription": null
+    },
+    "Response": {
+      "status": "success",
+      "message": "Cmspage is available",
+      "page_detail": {
+        "sid": "4",
+        "title": "About Me",
+        "heading": "About |Me",
+        "descri": "<div class=\"contant_part\"><br />\r\n<p>Assalamualaikum &amp; Hello everyone, My name is <strong>ZZZ</strong>.  Born in Lahore, Pakistan. Living in London, UK. I am here to help for people like just married couple, students in abroad, don&rsquo;t know what &amp; how to cook etc. If you love Pakistani, Indian  &amp; Continental food, Veg &amp; Non Veg, this website is very helpful for you. i upload new recipes Videos every week on <a href=\"https://www.youtube.com/user/839\"><strong>COOK WITH Faluda</strong></a>, For new cooking recipe videos subscribe me on <strong><a href=\"https://www.youtube.com/channel/UCR9WXUxcp0bR9OWi5ersIHw?sub_confirmation=1\">Youtube</a></strong> and <a href=\"https://www.facebook.com/cookwithf/\"><strong>Facebook</strong></a>.</p>\r\n<p>&nbsp;</p>\r\n<p>IF YOU LIKE OUR VIDEOS THEN PLEASE CONSIDER TO MAKE A KIND DONATION THRU PAYPAL OR ANY CREDIT CARD/BANK CARD</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;<a href=\"https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&amp;SESSION=GICrd2c5blOEeDN3mVjH3HTuthYhBfZOXoGamQJMOvRO8Ih4Q2nKnYjRjPm&amp;dispatch=5885d80a13c0db1f8e263663d3faee8de6030e9239419d79c3f52f70a3ed57ec\"><input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\" /> <input type=\"hidden\" name=\"encrypted\" value=\"-----BEGIN PKCS7-----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-----END PKCS7-----&#10;\" /> <input type=\"image\" src=\"https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal &ndash; The safer, easier way to pay online.\" /> <img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\" /></a></p>\r\n</div>",
+        "meta_title": "Contact - Cook With Faluda",
+        "meta_keywords": "Pakistani Recipes, Recipe, Food, Cooking, Pakistani Recipes, Indian Recipes, Cooking Recipes",
+        "meta_descri": "Falida has unique Experience for food, cooking and Recipes from around the world, with concentration on Pakistani recipes. We also have a variety of Indian Recipes as well.",
+        "clean_title": "about-me",
+        "home_banner": "",
+        "home_bannertext": ""
+      }
+    }
+  }
+  /* ------------------------------------------------------------------------- */
+}
